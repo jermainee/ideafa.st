@@ -118,3 +118,13 @@ A B2B platform where failed founders trade their dead user bases like Pokémon c
 A SaaS that lets you A/B test which of your team members you can underpay the longest before they quit.
 A monthly subscription that sends you a motivational quote right before your startup’s burn rate reminder.
 A SaaS that helps you pivot your product every 30 days to keep your therapist employed.
+Make a SaaS that charges people $9.99/month to remind them once a week via email not to forget their other subscriptions.
+Build a Stripe-powered platform where users can sell AI-generated inspirational quotes as NFTs.
+Launch a SaaS that auto-generates fake testimonials for your landing page using ChatGPT and charges per fake.
+Create a service that monitors your own Stripe revenue and sends you celebratory confetti GIFs whenever you get paid.
+Offer a SaaS that lets people pay monthly to get access to daily “startup name ideas” scraped from expired domains.
+Sell a tool that charges influencers to watermark their selfies with motivational startup phrases like “grind harder.”
+Make a SaaS that sends a daily AI-generated cold email to VCs on your behalf until someone blocks you.
+Create a boilerplate marketplace subscription service where users pay monthly to download other people’s boilerplates.
+Launch a Stripe-powered app where users pay to rent placeholder logos for their MVPs while they “find a real designer.”
+Build a $5/month SaaS that turns Stripe invoices into motivational posters with fake metrics like “ARR: $1B.”

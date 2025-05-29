@@ -7,7 +7,7 @@ document.addEventListener('keydown', function (event) {
     }
 });
 const fetchIdea = () => {
-    fetch('/dist/1M_stupid_saas_ideas.txt')
+    fetch('/dist/stupid_saas_ideas.txt?cb=' + Date.now())
         .then(response => response.text())
         .then(text => {
             const ideas = text.split('\n').filter(line => line.trim() !== '');
